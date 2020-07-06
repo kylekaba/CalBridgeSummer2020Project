@@ -1,0 +1,8 @@
+PVD_ylo = 150
+PVD_yhi = 151
+vsys = 2792
+res = 0.0150000000000012
+PVD_Paxis_lo = 75
+PVD_Paxis_hi = 225
+PVD_vel_axis_lo = 50
+PVD_vel_axis_hi = 125
