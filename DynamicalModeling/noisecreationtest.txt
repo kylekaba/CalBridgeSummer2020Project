@@ -1,0 +1,9 @@
+xlo_data = 89
+xhi_data = 229
+ylo_data = 89
+yhi_data = 229
+xlo_noise = 192
+xhi_noise = 242
+ylo_noise = 209
+yhi_noise = 259
+rebin = 7
