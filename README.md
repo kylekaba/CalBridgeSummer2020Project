@@ -1,6 +1,7 @@
 # UC Irvine - Cal-Bridge Summer 2020 Repository
 ## Project: Weighing the Supermassive Black Hole in the Massive Early-Type Galaxy, NGC 4786.
 ### Graduate Student Mentor: Kyle K. M. Kabasares 
+### Undergraduate Summer Research Student: Janelle Sy
 
 The following repository contains Jupyter notebooks and routines in Python 3 that were used to help instruct and guide an undergraduate summer research project in the Summer of 2020. This was part of [Cal-Bridge](https://www.cpp.edu/calbridge/index.shtml), a program that creates opportunities for individuals from historically underrepresented groups within the California State University System to participate in summer research experiences at University of California campuses. 
 
